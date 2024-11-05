@@ -65,7 +65,6 @@ function updateMovieGenre(movies, title, newGenre) {
   if (movie) {
     movie.genre = newGenre;
   }
-
   return movies;
 }
 
