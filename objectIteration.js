@@ -31,7 +31,7 @@ const movies = [
     genre: "Drama",
   },
 ];
-
+//hi
 // Q1: Write a `hasKey` function that takes two arguments, an object and a key.
 // The function should return true if the object contains  the specified key, and false otherwise.
 function hasKey(obj, key) {
